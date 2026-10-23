@@ -4,7 +4,7 @@
 
 TeachReach automatically matches people who **offer** a service or tutoring with people who are **looking** for one, based on interest tags. Service descriptions are classified into topics by an LLM, so a provider writes what they do in plain language and the platform routes it to the right audience.
 
-> **Status:** MVP concept — product definition and AWS system design. No implementation yet; this repository documents the proposed architecture. The full pitch deck is in [`TeachReach_MVP_presentation.pdf`](TeachReach_MVP_presentation.pdf).
+> **Status:** MVP concept : product definition and AWS system design. No implementation yet; this repository documents the proposed architecture. The full pitch deck is in [`TeachReach_MVP_presentation.pdf`](TeachReach_MVP_presentation.pdf).
 
 ---
 
